@@ -7,11 +7,11 @@ permalink: /weeks/week-02/
 
 # 證據如何成立？
 
-> 請保留具體的現場、材料、語句或身體感受。
+> 這週從 Haraway 的 Situated Knowledges 和 Ginzburg 的 Clues 開始談起，圍繞一個問題：我們看到的接觸到的東西，什麼時候以及如何變成證據？
 
 ## TRACE & CONNECTION｜痕跡與連結
 
-這週從 Haraway 的 Situated Knowledges 和 Ginzburg 的 Clues 開始。課堂上我想到醫學其實很符合 Ginzburg 所說的 conjectural knowledge：疾病本身常常無法直接被看見，只能從症狀、影像、檢驗、病理形態等線索推論。即使是雙盲研究也有其極限，不是所有醫療行為都能完全排除操作者與情境，臨床醫學面對的又常常不是可以反覆重現的同一個物件，而是具體的個別病人。而 Ginzburg 談 Bertillon 的口述肖像（spoken portrait），把鼻子、眼睛、耳朵等部位拆開，以非常細的語言分類，再重新組合成可供辨識的形象，或者 Morelli 一頁頁比較耳朵手指等細節的方法，也讓我聯想到病理學裡的 starry-sky appearance，本身也只是某種 morphology 被辨認成有意義的 pattern，再進一步成為診斷線索，而不是直接看見疾病本身。
+在閱讀文本的時候我想到醫學其實很符合 Ginzburg 所說的 conjectural knowledge：疾病本身常常無法直接被看見，只能從症狀、影像、檢驗、病理形態等線索推論。即使是雙盲研究也有其極限，不是所有醫療行為都能完全排除操作者與情境，臨床醫學面對的又常常不是可以反覆重現的同一個物件，而是具體的個別病人。而 Ginzburg 談 Bertillon 的口述肖像（spoken portrait），把鼻子、眼睛、耳朵等部位拆開，以非常細的語言分類，再重新組合成可供辨識的形象，或者 Morelli 一頁頁比較耳朵手指等細節的方法，也讓我聯想到病理學裡的 starry-sky appearance，本身也只是某種 morphology 被辨認成有意義的 pattern，再進一步成為診斷線索，而不是直接看見疾病本身。
 
 老師接著介紹的幾個例子，都在呼應並不存在一個完全沒有位置、沒有工具的觀看。相機、顯微鏡、感測器甚至肉眼，都不是透明的窗口。證據也可能是制度與規則製造出來的。Tim Knowles、Ana Mendieta 從腳印或身體留下的痕跡出發；Trevor Paglen 拍攝間諜衛星、海底電纜與資料中心讓隱藏的 infrastructure 進入視野；Christina Kubisch讓觀眾戴著特製耳機在城市裡走，把原本無法被人耳感知的電磁場轉成聲音；Forensic Architecture 則透過影片、motion tracking、地圖與 simulation 追蹤煙霧、氣體與污染。Jill Magid 的 Evidence Locker 操作既有 CCTV 的規則，CCTV 影像31天後會被刪除，但又透過31天每天申請調閱，它又能被留下來。
 
