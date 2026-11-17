@@ -26,7 +26,7 @@ permalink: /weeks/week-10/
 
 ## CONNECTION｜連結
 
-Bastian 提到telling time其實決定我們選擇跟誰／跟什麼一起計時（keep time with），時間因此是一種安排關係的方法，而calendar比較像格線，clock 指向現在的 pointer，也因此和 kairos，也就是什麼時候該行動、什麼時候事情變得迫切比較有關。
+(下一週的)Bastian 提到telling time其實決定我們選擇跟誰／跟什麼一起計時（keep time with），時間因此是一種安排關係的方法，而calendar比較像格線，clock 指向現在的 pointer，也因此和 kairos，也就是什麼時候該行動、什麼時候事情變得迫切比較有關。
 
 The Shape of Stories、emotional arcs、montage、hypertext、互動電影，到Life After BOB，都在把「計時」擴張成「組織時間」。Life After BOB裡的父親原本想用技術替女兒管理一個「更好的未來」，最後連她自己生活與做決定的時間都可能被系統接管。當一個系統越能替我們安排「何時、接下來、應該」，我們同時也越依賴它來理解自己的現在。
 
@@ -35,4 +35,5 @@ The Shape of Stories、emotional arcs、montage、hypertext、互動電影，到
 我的時鐘..?
 
 (每時每日)體力消耗的時鐘、 (每日)土坯濕度的照護、(每周)燒窯頻率、(每周)約診療程進度、(每日每周 每月)新創作計畫書、(每日每周每月) 創作製作期程相互交織、(每日每周每月每年) 30歲以前..?
+queer death. death doula. mourning clock. 
 
